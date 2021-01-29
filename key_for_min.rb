@@ -13,3 +13,8 @@ end
 end
 low_key
 end
+
+# Return key NOT VALUE!
+# points to smallest value.
+
+# empty hash return nil.
